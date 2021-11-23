@@ -1,0 +1,9 @@
+@media screen and (max-width: 700px){
+    .oneArticle {
+        flex-direction: column;
+    }
+
+    img {
+        width: 100%;
+    }
+}

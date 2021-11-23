@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 25px 50px;
+    font-size: 62.5%;
+}
+
+.oneArticle {
+    display: flex;
+    font-size: 1rem;
+    margin: 50px 0;
+    border: solid darkcyan 2px;
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+
+img {
+    margin-right: 10px;
+    width: 250px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
